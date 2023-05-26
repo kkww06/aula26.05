@@ -24,4 +24,4 @@
   <p> João Vitor está fazendo conosco o código da aula de hoje. (Fui beber água e um gatinho subiu em mim, fiquei feliz, queria deixar registrado aqui.) </p>
   
   <h3> LINK DO CÓDIGO DA AULA </h3>
-  <a href:"https://script.google.com/macros/s/AKfycbw28beUi0SvAozw7TLahc53kROz4O8JrwVu44kBecSfxsUzn7G6KGyu4yxbVcPPP2R4/exec"
+  <a href="https://script.google.com/macros/s/AKfycbw28beUi0SvAozw7TLahc53kROz4O8JrwVu44kBecSfxsUzn7G6KGyu4yxbVcPPP2R4/exec">SITE APRESENTADADO NESSE PORTIFOLIO</a>
